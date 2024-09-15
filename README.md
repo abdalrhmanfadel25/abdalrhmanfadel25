@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning to be a Front-end developer
+- 👯 I’m looking to collaborate on website design
+- 🤔 I’m looking for help with UX/UI ideas
+- 💬 Ask me about apps design 
+- 📫 How to reach me: linkedin
+- 😄 Pronouns: sir
+- ⚡ Fun fact:I hope to one day have a strawberry farm 
 <!--
 **abdalrhmanfadel25/abdalrhmanfadel25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
